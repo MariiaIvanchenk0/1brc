@@ -8,6 +8,7 @@
 #include <sstream>
 #include <chrono>
 #include <atomic>
+#include <vector>
 
 template<class D>
 inline long long to_ms(const D& d) {
