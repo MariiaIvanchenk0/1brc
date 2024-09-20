@@ -1,0 +1,7 @@
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/1brc.dir
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/install.dir
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/install/local.dir
+/Users/mariia/Desktop/1brc-18.09./cmake-build-debug/CMakeFiles/install/strip.dir
